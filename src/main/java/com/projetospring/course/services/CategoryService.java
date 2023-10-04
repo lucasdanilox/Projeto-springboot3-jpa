@@ -6,7 +6,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.projetospring.course.entities.enums.Category;
+import com.projetospring.course.entities.Category;
 import com.projetospring.course.repositories.CategoryRepository;
 
 @Service
