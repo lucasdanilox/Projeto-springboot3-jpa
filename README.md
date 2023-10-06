@@ -13,8 +13,6 @@ Este é um projeto de software desenvolvido em Java que oferece um sistema de pe
 - Maven
 - H2
 
-# Como executar o projeto
-
 ## Back end
 Pré-requisitos: Java 11
 
