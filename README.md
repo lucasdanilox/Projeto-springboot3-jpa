@@ -19,5 +19,5 @@ Pré-requisitos: Java 17
 
 Lucas Danilo de Castro
 
-https://www.linkedin.com/in/lucas-danilo-5120a0279/
+https://www.linkedin.com/in/lucasdanilox/
 
